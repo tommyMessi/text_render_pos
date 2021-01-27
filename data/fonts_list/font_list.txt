@@ -1,0 +1,1 @@
+/home/huluwa/sample_crnn/text_renderer_2.0/data/fonts/all/YaHei.Consolas.1.12.ttf

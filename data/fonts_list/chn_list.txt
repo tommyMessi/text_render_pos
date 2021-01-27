@@ -1,0 +1,11 @@
+/home/huluwa/sample_crnn/text_renderer_2.0/data/fonts/chn/FZYTK.TTF
+/home/huluwa/sample_crnn/text_renderer_2.0/data/fonts/chn/msyh.ttf
+/home/huluwa/sample_crnn/text_renderer_2.0/data/fonts/chn/msyhbd.ttf
+/home/huluwa/sample_crnn/text_renderer_2.0/data/fonts/chn/simhei.ttf
+/home/huluwa/sample_crnn/text_renderer_2.0/data/fonts/chn/simkai.ttf
+/home/huluwa/sample_crnn/text_renderer_2.0/data/fonts/chn/simsun.ttc
+/home/huluwa/sample_crnn/text_renderer_2.0/data/fonts/chn/STFANGSO.TTF
+/home/huluwa/sample_crnn/text_renderer_2.0/data/fonts/chn/STKAITI.TTF
+/home/huluwa/sample_crnn/text_renderer_2.0/data/fonts/chn/STSONG.TTF
+/home/huluwa/sample_crnn/text_renderer_2.0/data/fonts/chn/STXIHEI.TTF
+/home/huluwa/sample_crnn/text_renderer_2.0/data/fonts/chn/STZHONGS.TTF

@@ -1,0 +1,17 @@
+D:\workspace\RECOGNITION\text_renderer\data\fonts\all\Arial_Unicode.ttf
+D:\workspace\RECOGNITION\text_renderer\data\fonts\all\Aura.ttf
+D:\workspace\RECOGNITION\text_renderer\data\fonts\all\FZYTK.TTF
+D:\workspace\RECOGNITION\text_renderer\data\fonts\all\Kaiti.ttf
+D:\workspace\RECOGNITION\text_renderer\data\fonts\all\msyh.ttf
+D:\workspace\RECOGNITION\text_renderer\data\fonts\all\msyhbd.ttf
+D:\workspace\RECOGNITION\text_renderer\data\fonts\all\NanLiHei_Eurostile.ttf
+D:\workspace\RECOGNITION\text_renderer\data\fonts\all\PMingLiU.ttf
+D:\workspace\RECOGNITION\text_renderer\data\fonts\all\SimHei.ttf
+D:\workspace\RECOGNITION\text_renderer\data\fonts\all\simkai.ttf
+D:\workspace\RECOGNITION\text_renderer\data\fonts\all\SimSun.ttf
+D:\workspace\RECOGNITION\text_renderer\data\fonts\all\STFANGSO.TTF
+D:\workspace\RECOGNITION\text_renderer\data\fonts\all\STKAITI.TTF
+D:\workspace\RECOGNITION\text_renderer\data\fonts\all\STSONG.TTF
+D:\workspace\RECOGNITION\text_renderer\data\fonts\all\STXIHEI.TTF
+D:\workspace\RECOGNITION\text_renderer\data\fonts\all\STZHONGS.TTF
+D:\workspace\RECOGNITION\text_renderer\data\fonts\all\YaHei.Consolas.1.12.ttf
