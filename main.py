@@ -108,6 +108,7 @@ def generate_img(img_index, q=None):
         # im = cv2.cvtColor(im, cv2.COLOR_BGR2GRAY)
         cv2.imwrite(fname, im, [int(cv2.IMWRITE_JPEG_QUALITY), quality])
 
+        # 增加位置信息的输出
         label = "{} {}\t{}".format(base_name, word, ",".join([str(split_line)for split_line in split_lines[1:]]))
 
         if q is not None:
