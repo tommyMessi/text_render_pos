@@ -1,7 +1,7 @@
 #!/usr/env/bin python3
 
 """
-Generate training and test images.
+Generate training and test images with position.
 """
 import traceback
 import numpy as np
